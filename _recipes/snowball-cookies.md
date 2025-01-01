@@ -30,6 +30,6 @@ directions:
 
 ---
 
-Contributor: Brittany Watt
-Source Recipe: https://sallysbakingaddiction.com/snowball-cookies-recipe/
-Notes: Brittany baked these cookies for Brandon and Julia and they haven't stopped talking about it since.
+Contributor: Brittany Watt <br />
+Source Recipe: https://sallysbakingaddiction.com/snowball-cookies-recipe/ <br />
+Notes: Brittany baked these cookies for Brandon and Julia and they haven't stopped talking about it since. <br />
