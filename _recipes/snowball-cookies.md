@@ -35,5 +35,5 @@ Rating: 5/5 <br />
 [Source Recipe](https://sallysbakingaddiction.com/snowball-cookies-recipe/)  <br />
 Prep time: 45 <br />
 Cook time: 15 <br />
-Modifications: None.
+Modifications: None.  <br />
 Notes: Brittany baked these cookies for Brandon and Julia and they haven't stopped talking about it since. <br />
