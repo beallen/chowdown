@@ -12,7 +12,6 @@ ingredients:
 - 1 lime (juiced)
 - 2 tablespoon white vinegar
 - Pinch of salt
-
 - Jicama-Cilantro Slaw
 - 2 cups of shredded cabbage
 - 1/2 cup fresh cilantro leaves
@@ -21,7 +20,6 @@ ingredients:
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon chili powder
 - Salt and pepper to taste
-
 - Tostadas
 - 6 corn tortillas
 - Extra virgin olive oil
