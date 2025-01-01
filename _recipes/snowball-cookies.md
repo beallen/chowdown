@@ -24,7 +24,7 @@ directions:
 
 - Scoop or roll 1 Tablespoon (20g) of cookie dough per cookie. Roll into a ball and place on the baking sheets, at least 2 inches apart. Bake the cookies until golden brown on the bottom edges and just barely browned on top, about 15 minutes.
 
-- Coating: Allow the cookies to cool for 5 minutes on the baking sheet, then very gently roll them in the confectioners’ sugar to coat completely. Place the cookies on wire racks to cool completely. The confectioners’ sugar will melt a bit and get sticky; that’s ok. Once the cookies have completely cooled, roll in confectioners’ sugar again. This is when the sugar will really stick.
+- Coating. Allow the cookies to cool for 5 minutes on the baking sheet, then very gently roll them in the confectioners’ sugar to coat completely. Place the cookies on wire racks to cool completely. The confectioners’ sugar will melt a bit and get sticky; that’s ok. Once the cookies have completely cooled, roll in confectioners’ sugar again. This is when the sugar will really stick.
 
 - Cookies stay fresh covered at room temperature for up to 1 week. 
 
