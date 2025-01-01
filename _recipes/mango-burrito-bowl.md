@@ -19,13 +19,13 @@ ingredients:
 - 2 tablespoons reduced sodium tamari or soy sauce
 - 1 tablespoon honey or maple syrup (to taste)
 - 2 teaspoons toasted sesame oil
-- 2 garlic cloved, minced.
-- 1/4 yeaspoon red pepper flakes (to taste)
+- 2 garlic cloves, minced.
+- 1/4 teaspoon red pepper flakes (to taste)
 - Mango salsa and cabbage
-- 2 large ripe mangos, diced
+- 2 large ripe mango, diced
 - 1 medium red bell pepper
 - 1/2 cup sliced green onions
-- 1/4 cup chopped fresh cilanto
+- 1/4 cup chopped fresh cilantro
 - 1 medium jalapeno, seed removed
 - 2 tablespoons lime juice
 - 1/4 teaspoon fine sea salt
@@ -59,4 +59,4 @@ Rating: 4/5 <br />
 Prep time: 30 <br />
 Cook time: 45 <br />
 Modifications: Added a citrus based hot sauce to taste. Substituted soy sauce of tamari. Used frozen mango (thawed) instead of fresh. <br />
-Notes: Fresh mango burrito bowl. Tofu can be substituted for any protein.  <br />
+Notes: Fresh mango burrito bowl. Tofu can be substituted for any protein. The raw garlic flavor in the peanut sauce can be intense. Reduce the amount of garlic or cook it depending on your taste. <br />
