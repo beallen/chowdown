@@ -4,7 +4,7 @@ layout: recipe
 title:  "Snowball Cookies"
 image: pecan-snowballs-cookies.jpg
 imagecredit: https://sallysbakingaddiction.com/snowball-cookies-recipe/
-tags: cookies, baking
+tags: cookies, baking, dessert
 
 ingredients:
 - 1 cup unsalted butter

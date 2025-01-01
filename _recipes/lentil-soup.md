@@ -4,7 +4,7 @@ layout: recipe
 title:  "Lentil Soup"
 image: lentil-soup.jpg
 imagecredit: https://cookieandkate.com/best-lentil-soup-recipe/
-tags: soup, vegetarian
+tags: soup, side, vegetarian
 
 ingredients:
 - 1/4 cup extra virgin olive oil
