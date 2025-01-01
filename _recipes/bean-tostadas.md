@@ -18,8 +18,8 @@ ingredients:
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon chili powder
 - Salt and pepper to taste
-
-Tostadas
+ingredients:
+- Tostadas
 - 6 corn tortillas
 - Extra virgin olive oil
 - Salt (to taste)
