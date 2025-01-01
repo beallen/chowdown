@@ -7,10 +7,12 @@ imagecredit: https://cookieandkate.com/bean-tostadas-recipe/
 tags: Mexican, vegetarian, main
 
 ingredients:
+- **Pickled Red Onions**
 - 1/2 medium red onion (thinly sliced)
 - 1 lime (juiced)
 - 2 tablespoon white vinegar
 - Pinch of salt
+- **Jicama-Cilantro Slaw**
 - 2 cups of shredded cabbage
 - 1/2 cup fresh cilantro leaves
 - 1/2 cup of peeled jicama (or additional shredded cabbage)
@@ -18,8 +20,7 @@ ingredients:
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon chili powder
 - Salt and pepper to taste
-ingredients:
-- Tostadas
+- **Tostadas**
 - 6 corn tortillas
 - Extra virgin olive oil
 - Salt (to taste)
