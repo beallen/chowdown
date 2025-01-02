@@ -24,7 +24,7 @@ directions:
 
 - Cover and refrigerate the oats overnight to allow for thickening. 
 
-- Portion oats into bowls and add your favorite topping. Additional soy milk can be added to adjust the final thickeness of your oats. 
+- Portion oats into bowls and add your favorite topping. Additional soy milk can be added to adjust the final thickness of your oats. 
 
 ---
 
