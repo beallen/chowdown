@@ -14,7 +14,7 @@ ingredients:
 - 2 tbsp honey
 - salt to taste
 - 1 teaspoon mild chili flakes
-- 2 (6-8 ounce) blocks of feta, sliced 1 inch thck
+- 2 (6-8 ounce) blocks of feta, sliced 1 inch thick
 
 
 directions:
