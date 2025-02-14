@@ -19,7 +19,7 @@ ingredients:
 - 2 large eggs (or however many eggs you want to have on top)
 - 2-4 Tbsp Korean Gochujang sauce
 - Kimchi (optional, to taste)
-- Taosted sesame seeds (optional, to taste)
+- Toasted sesame seeds (optional, to taste)
 
 
 directions:
