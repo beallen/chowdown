@@ -20,13 +20,13 @@ ingredients:
 - 15oz can white kidney beans
 
 directions:
-- Soak cashews overnight if possible. If not, soak in boiling water as soon as you see this, the longer the better
+- Soak cashews overnight if possible. If not, soak in boiling water as soon as you see this, the longer the better.
 
-- Chop celery, carrots, onion, and garlic
+- Chop celery, carrots, onion, and garlic.
 
-- Chop mushrooms, reserve on the side
+- Chop mushrooms, reserve on the side.
 
--Reserve 1 cup (8 oz) of broth on the side. Heat the rest of the vegetable broth in a large pot on medium heat.Rinse and drain your wild rice.
+-Reserve 1 cup (8 oz) of broth on the side. Heat the rest of the vegetable broth in a large pot on medium heat. Rinse and drain your wild rice.
 
 - Add wild rice, thyme, bay leaves, and salt to your hot vegetable broth. Add your veggies too (celery, carrots, onion & garlic). Place lid on pot and set a 30 min timer
 
@@ -42,5 +42,5 @@ Rating: 4/5 <br />
 [Source Recipe](https://lifeisnoyoke.com/wild-rice-soup/#recipe)  <br />
 Prep time: 30 <br />
 Cook time: 30 <br />
-Modifications: Could be improved with a more umami flavor. Adding seafood would turn it into somelike like a clam chowder. <br />
+Modifications: Could be improved with a more umami flavor. Adding seafood would turn it into something like a clam chowder. <br />
 Notes: Good creamy vegan soup. Works best as a side instead of main dish. <br />
