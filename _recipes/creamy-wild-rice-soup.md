@@ -9,7 +9,7 @@ tags: side, soup, vegetarian
 ingredients:
 - 1 cup soaked cashews
 - 4 celery ribs
-- 1/2 onion
+- 0.5 onion
 - 4 cloves of garlic
 - 2L vegetable broth
 - 1 cup wild rice
@@ -17,7 +17,7 @@ ingredients:
 - 2 bay leaves
 - 2 tsp salt
 - 8 ounces mushrooms
-- 15oz can white kidney beans
+- 15 oz can white kidney beans
 
 directions:
 - Soak cashews overnight if possible. If not, soak in boiling water as soon as you see this, the longer the better.
@@ -26,14 +26,13 @@ directions:
 
 - Chop mushrooms, reserve on the side.
 
--Reserve 1 cup (8 oz) of broth on the side. Heat the rest of the vegetable broth in a large pot on medium heat. Rinse and drain your wild rice.
+- Reserve 1 cup (8 oz) of broth on the side. Heat the rest of the vegetable broth in a large pot on medium heat. Rinse and drain your wild rice.
 
 - Add wild rice, thyme, bay leaves, and salt to your hot vegetable broth. Add your veggies too (celery, carrots, onion & garlic). Place lid on pot and set a 30 min timer
 
 - Drain soaked cashews and the liquid from the cannellini beans. Place cashews & beans in Vitamix container. Add the reserved cup of vegetable broth. Blend on high for 1 minute until smooth.
 
 - When your timer goes off, add the creamy Vitamix mixture to your pot. Add the chopped mushrooms. Replace lid, lower heat, and set timer for 15 more min. When the timer goes off, check if wild rice is done (should be a bit chewy). Remove bay leaves.
-
 
 ---
 
