@@ -4,7 +4,7 @@ layout: recipe
 title:  "Breakfast burrito"
 image: breakfast-burrito.jpg
 imagecredit: https://www.loveandlemons.com/breakfast-burrito/
-tags: side, soup, vegetarian
+tags: main, breakfast, vegetarian
 
 ingredients:
 - 1 pound small yellow potatoes, cut into ½-inch pieces
